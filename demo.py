@@ -1,4 +1,4 @@
 import streamlit as st
 
 
-st.text('This is some text xxx.')
+st.text('This is some text xxx xxx.')
